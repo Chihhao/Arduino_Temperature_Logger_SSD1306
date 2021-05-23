@@ -18,11 +18,11 @@
 ## 函式庫
 (1) 請複製library目錄中的所有資料到Arduino的library目錄 (ex: C:\Users\USERNAME\Documents\Arduino\libraries)  
 (2) 或者可以自行下載，網址如下  
-// https://github.com/jarzebski/Arduino-DS3231
-// https://github.com/Marzogh/SPIMemory
-// https://github.com/adafruit/Adafruit_Sensor
-// https://github.com/greiman/SSD1306Ascii
-// https://github.com/adafruit/DHT-sensor-library
+https://github.com/jarzebski/Arduino-DS3231  
+https://github.com/Marzogh/SPIMemory  
+https://github.com/adafruit/Adafruit_Sensor  
+https://github.com/greiman/SSD1306Ascii  
+https://github.com/adafruit/DHT-sensor-library  
 
 ## 注意
 (1) 預設每4秒會記錄一筆資料，可以連續紀錄約180天，超過會自動回頭覆蓋，就像行車紀錄器  
