@@ -1,7 +1,7 @@
 # Arduino_Temperature_Logger_SSD1306 (溫溼度紀錄器)
-## 利用 DHT22 溫溼度偵測器
+## 利用 DHT22 溫溼度偵測器  
 
-效果如下
+## 成品如下 
 ![image](https://github.com/Chihhao/Arduino_Temperature_Logger_SSD1306/blob/main/image/1.jpg)
 
 ## 材料
